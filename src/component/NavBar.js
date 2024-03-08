@@ -10,7 +10,7 @@ export class NavBar extends Component {
             <div>
                 <nav>
                     <ul>
-                        <li><Link to="/general">News</Link></li>
+                        <li><Link to="/general" active>News</Link></li>
                         <li><Link to="/general">General</Link></li>
                         <li><Link to="/sports">Sports</Link></li>
                         <li><Link to="/science">Science</Link></li>
